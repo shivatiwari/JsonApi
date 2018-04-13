@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "title": "Boo",
+      "artist": "Eschweiler",
+      "thumbnail_image": "https://getuikit.com/v2/docs/images/placeholder_600x400.svg"
+    },
+    {
+      "id": 2,
+      "title": "Steve",
+      "artist": "Palmer",
+      "thumbnail_image": "http://stilearning.com/vision/1.1/assets/globals/img/dummy/img-10.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Ann",
+      "artist": "Smith",
+      "thumbnail_image": "https://cdn.dribbble.com/users/39185/screenshots/2613188/planet.jpg"
+    }
+  ]
+}
