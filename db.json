@@ -1,37 +1,47 @@
 [
   {
+    "date":"",
     "title":"Taylor Swift",
     "location":"Taylor Swift",
+    "text":"",
     "url":"https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
     "image":"https://i.imgur.com/5vQMyGR.png",
     "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
   },
   {
-    "title":"Fearless",
+    "date":"",
+    "title":"Taylor Swift",
     "location":"Taylor Swift",
+    "text":"",
     "url":"https://www.amazon.com/Fearless-Enhanced-Taylor-Swift/dp/B001EYGOEM",
     "image":"https://i.imgur.com/5vQMyGR.png",
     "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
    },
   {
-    "title":"Speak Now",
+    "date":"",
+    "title":"Taylor Swift",
     "location":"Taylor Swift",
-   "url":"https://www.amazon.com/Speak-Now-Taylor-Swift/dp/B003WTE886",
-   "image":"https://i.imgur.com/5vQMyGR.png",
-   "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
+    "text":"",
+    "url":"https://www.amazon.com/Speak-Now-Taylor-Swift/dp/B003WTE886",
+    "image":"https://i.imgur.com/5vQMyGR.png",
+    "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
   },
   {
-    "title":"Red",
-   "location":"Taylor Swift",
-   "url":"https://www.amazon.com/Red-Taylor-Swift/dp/B008XNZMOU",
-   "image":"https://i.imgur.com/5vQMyGR.png",
-   "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
+    "date":"",
+    "title":"Taylor Swift",
+    "location":"Taylor Swift",
+    "text":"",
+    "url":"https://www.amazon.com/Red-Taylor-Swift/dp/B008XNZMOU",
+    "image":"https://i.imgur.com/5vQMyGR.png",
+    "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
   },
   {
-    "title":"1989",
+    "date":"",
+    "title":"Taylor Swift",
     "location":"Taylor Swift",
-   "url":"https://www.amazon.com/1989-Taylor-Swift/dp/B00MRHANNI",
-   "image":"https://i.imgur.com/5vQMyGR.png",
-   "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
+    "text":"",
+    "url":"https://www.amazon.com/1989-Taylor-Swift/dp/B00MRHANNI",
+    "image":"https://i.imgur.com/5vQMyGR.png",
+    "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
   }
 ]
