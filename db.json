@@ -1,46 +1,55 @@
 [
   {
-    "date":"April 17 2018",
-    "title":"Citta walkin",
+    "date":"June 14 2018",
+    "title":"ThinkWink",
     "location":"Ahmedabad",
     "text":"Touch the Image above",
     "url":"https://www.cittasolutions.com/",
-    "image":"https://i.imgur.com/X3n294d.jpg",
+    "image":"https://i.imgur.com/fbGmg6p.jpg",
+    "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
+  },
+  {
+    "date":"June 14 2018",
+    "title":"Automatic Software Private Limited",
+    "location":"Pune",
+    "text":"Pune Freshers Direct Walk-Ins:\n\nAutomatic Software Private Limited Jr. Application Developers (Walkin) \nCandidate must have good communication and presentation skills\nStrong initiative and a proactive mind-set\nHighly adaptable and a fast learner\nUtilize established development tools, guidelines and conventions\nWindows Development, Web Development, SQL Server, HTML,\nCSS, Java Script, C#/ VB .Net, Angular JS and MVC, Bootstrap\nDevelop and support .Net Web Applications. \nClient facing, people management and leadership skills\nAbility to work in global team\nShould be Flexible for Travel\nWalk-in Date/ Time:\n12th - 29th June , 10 AM onwards\nInterview Venue:\nAutomatic Software Private Limited\nKapil Upavan Plaza, Office No. 301, 3rd Floor, \nChaitraban Bibwewadi Pune - 411 037. \nContact Number:9130006138\nLandmark : Near SBI Colony",
+    "url":"",
+    "image":"",
     "thumbnail_image":""
   },
   {
-    "date":"Apr 17 2018",
-    "title":"IT Freshers",
+    "date":"June 14 2018",
+    "title":"Accenture",
     "location":"Trivandrum",
-    "text":"Binary Fountain Solutions India Pvt Ltd requires\n IT Freshers (Java / Python)\n 0 - 0 years experience\n Job Location : Technopark, Trivandrum\n Brief Description \n Build and maintain efficient, reusable, and reliable Java code\n Design, implementation and testing of modules as directed by the team lead\n Preferred skills\n Core Java, J2EE\n RDBMS, MySQL\n Python\n Qualification\n BS/MS degree in Computer Science, MCA, B.Tech\n Experience\n 0-2 Years experience\n Walk-in Interview on 18th & 19th April 2018 between 11.00 am to 4.00 pm at :\n Binary Fountain Solutions India Pvt Ltd, L4, Ground Floor (Level -1),",
-    "url":"https://enquirekerala.com/index.php?option=com_jbjobs&view=guest&layout=detailjob&id=5013",
+    "text":"Acenture is hiring Freshers with descent knowledge on Java, Java Scripts, HTML & SQL. \nAnyone who is interested please share your resume at accenture.com ",
+    "url":"https://www.accenture.com/in-en/careers/jobsearch",
     "image":"",
     "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
    },
   {
-    "date":"Apr 17 2018",
-    "title":"Customer support",
-    "location":"Bengaluru",
-    "text":"Azuga Telematics Private Limited Hiring For Customer Support Professionals \nWalk-in Date:Walk-in Drive this week from Monday through Friday.\nWalk-in time:4 PM to 6:30 PM only.",
-    "url":"http://careerinformers.com/job-opportunity-for-customer-support-professionals/",
-    "image":"https://i.imgur.com/5vQMyGR.png",
-    "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
-  },
-  {
-    "date":"Apr 17 2018",
-    "title":"Front desk executive",
-    "location":"Bengaluru",
-    "text":"Compuage Infocom Ltd Hiring For Front Desk Executive ",
-    "url":"http://careerinformers.com/job-opportunity-for-front-desk-executive/",
+    "date":"june 14 2018",
+    "title":"Cognizant",
+    "location":"Chennai/Pune/Hyderabad/Bangalore",
+    "text":"\nCognizant Technology Solutions - \nJob Openings\nExperience: 3 to 10\nJob Location: Chennai/Pune/Hyderabad/Bangalore\nJob Title:\nFusion HCM Functional\nOracle Cloud ERP - Functional and technical\nOracle Cloud ERP Technical\nOracle Cloud SCM\nOracle Fusion HCM Technical\n\nPlease share your updated resume at \n\nveeramani.karuthapandian@cognizant.com",
+    "url":"https://careers.cognizant.com/global/en",
     "image":"",
+    "thumbnail_image":""
+  },
+  {
+    "date":"june 12 2018",
+    "title":"CMARIX",
+    "location":"Ahmedabad",
+    "text":"Touch the image",
+    "url":"https://www.cmarix.com/career.html",
+    "image":"https://i.imgur.com/kZVza3V.jpg",
     "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
   },
   {
-    "date":"Apr 17 2018",
-    "title":"Technical Software Support",
-    "location":"Mumbai ",
-    "text":"Location: Mumbai | Freshers\nTechnical Software Support\nIT/Computer Science Freshers\nNight Shifts Only.\nSalary: 2.66 to 3 lakhs.\nTransport facilities available.",
-    "url":" deepak@acme-services.in",
+    "date":"June 9 2018",
+    "title":"Infosys",
+    "location":"Pune/Bangalore",
+    "text":"Infosys!\nWe are hiring graduate engineers of 2016, 2017 and 2018! Join Infosys to help world’s top brands in their digital journey. \nLast date to apply is June 10, 2018 https://infy.com/2LcYOWd ",
+    "url":"https://infy.com/2LcYOWd",
     "image":"",
     "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
   }
